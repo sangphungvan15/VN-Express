@@ -1,0 +1,157 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    box-sizing: border-box;
+    width: 1300px;
+}
+.banner{
+    float: left;
+    
+}
+.contact{
+    border: 2px solid black;
+    float: left;
+    display: flex;
+    width: 800px;
+}
+
+.contact b{
+    margin-top: 16px;
+}
+.login{
+    float: right;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 50px;
+    border: 3px solid black;
+    width: 400px;
+    height: 50px;
+}
+.noiDung{
+    float: left;
+    width: 600px;
+}
+.trang{
+    float: left;
+}
+
+.timKiem{
+    margin-left: 20px;
+    margin-top: 16px;
+}
+
+.timKiem input{
+    border-radius: 5px;
+    vertical-align: middle;
+}
+
+.login button{
+    border-radius: 10px;
+}
+
+.youtube{
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+}
+.flo{
+    border-radius: 5px;
+    background-color:  rgb(14, 90, 204);
+    color: white;
+}
+.like{
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+.noiDung
+{
+    float: left;
+    width: 600px;
+}
+.content-3{
+    width: 300px;
+    float: left;
+}
+.menu{
+    height: 50px;
+    float: left;
+    width: 1300px;
+}
+.menu ul li{
+    display: inline-block;
+    margin-bottom: 100px;
+    padding-left: 10px;
+    text-decoration: none;
+    color: rgb(110, 13, 62);
+    font-weight: bold;
+}
+
+.home{
+    color: rgb(110, 13, 62);
+    line-height: 20px;
+    margin-top: 15px;
+}
+
+.noiDung-2{
+    float: left;
+    width: 300px;
+    height: 600px;
+    margin-top: 0;
+}
+.trang a{
+    padding: 10px;
+    text-decoration: none;
+    color:rgb(110, 13, 62);
+    font-weight: bold;
+}
+
+.sub a{
+    text-decoration: none;
+    color: rgb(110, 13, 62);
+    font-size: 20px;
+}
+.sub p{
+    font-size: 15px;
+}
+
+.sub span{
+    font-size: 14px;
+}
+
+.noiDung-2{
+    border: 2px solid black;
+}
+
+.trang-2{
+    float: right;
+    background-color: rgb(110, 13, 62);
+}
+
+.trang-2 a{
+    float: right;
+    font-size: 25px;
+}
+
+.view p{
+    font-weight: bold;
+    color: rgb(110, 13, 62);
+}
+
+view img{
+    float: right;
+    padding-bottom: 50px;
+}
+.new p{
+    font-weight: bold;
+}
+
+.noiDung-3{
+    float: right;
+    width: 400px;
+}
+
+.date{
+    padding-right: 30px;
+}
